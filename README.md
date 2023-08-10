@@ -2,6 +2,8 @@ The purpose of this analysis was to train and evaluate this machine learning mod
 •	The accuracy of the model was 0.9520479254722232 which means that roughly 95% of the total predicted outcomes were correct.
 •	Precision is a measure of how many of the predicted positive instances were actually positive. For Class 0 (healthy loan), the precision is 1.00, indicating that all instances predicted as Class 0 were actually Class 0. For Class 1 (high-risk loan), the precision is 0.85, indicating that about 85% of instances predicted as Class 1 were actually Class 1.
 •	Recall measures how many of the actual positive instances were correctly predicted. For Class 0 (healthy loan), the recall is .99, indicating that 99% of the actual Class 0 instances were correctly predicted. For Class 1 (high-risk loan), the recall is 0.91, meaning that 91% of the actual Class 1 instances were correctly predicted.
+
 The stand-out results from this machine learning model were the balanced accuracy score of 0.952 and the weighted average for both precision and recall of 0.99. Due to our lack of knowledge and expertise in the loan lending business, we cannot say for certain whether or not this model will be useful for the bank/company in question. However, with an accuracy score of 0.952 and a weighted average for both precision and recall of 0.99, we think it is safe to say that this model is more than capable of making correct decisions in regards to assessing loan risk, and thus earns our recommendation.
+
 
 worked with John Xuereb on this assignment: https://github.com/johnxuereb17/Credit_Risk_Classification
